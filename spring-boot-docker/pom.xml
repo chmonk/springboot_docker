@@ -113,7 +113,7 @@
 						<format>HTML</format>
 					</formats>
 					<outputDirectory>./</outputDirectory>
-					<failBuildOnCVSS>8</failBuildOnCVSS>
+					<failBuildOnCVSS>11</failBuildOnCVSS>
 				</configuration>
 				<executions>
 					<execution>
